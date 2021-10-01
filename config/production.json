@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "copybookMern",
+  "mongoURI": "mongodb+srv://igorka:12341234@cluster0.7enev.mongodb.net/copybook?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
