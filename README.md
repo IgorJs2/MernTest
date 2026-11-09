@@ -1,8 +1,8 @@
-# MernTest — URL Shortener (MERN practice)
+# MernTest: URL shortener (MERN practice)
 
 > [!WARNING]
-> **DEPRECATED — OLD LEARNING PROJECT (2021).** Archived and no longer maintained. Kept public to show my early progress.
-> For my current production work see [my GitHub profile](https://github.com/IgorJs2) — Metrocraft 2036 and Stalcraft LAB.
+> DEPRECATED: an old learning project (2021). Archived and no longer maintained. I keep it public to show where I started.
+> My current work (Metrocraft 2036 and Stalcraft LAB) is on [my GitHub profile](https://github.com/IgorJs2).
 
 My first full-stack Node.js project: a link shortener with user accounts.
 
